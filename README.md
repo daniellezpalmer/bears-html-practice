@@ -1,9 +1,9 @@
 # Bears HTML Practice
 
 ## Purpose
-Practice writing semantically meaningful HTML 
+Practice writing semantically meaningful HTML
 
-##Specs
+## Specs
 
 ## TODO
 - [ ] Create links to home, species, and stats pages on each page

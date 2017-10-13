@@ -19,7 +19,9 @@ Create 3 pages (home, species, and stats)
 ## Screenshot
 ### Home
 <img width="547" alt="bear-home" src="https://user-images.githubusercontent.com/30088565/31566358-d9ad0956-b02f-11e7-89bc-42a5ce379e8a.png">
+
 ### Species
 <img width="554" alt="bear-species" src="https://user-images.githubusercontent.com/30088565/31566361-dae64c06-b02f-11e7-964b-20d124099542.png">
+
 ### Stats
 <img width="508" alt="bear-stats" src="https://user-images.githubusercontent.com/30088565/31566364-dcf9b17c-b02f-11e7-818e-f397ce86e106.png">
